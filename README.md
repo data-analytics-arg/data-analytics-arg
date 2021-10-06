@@ -1,26 +1,24 @@
-![natterstefan](https://mvazquezmassaro.github.io/infovis/logo-Data-Analytics.png)
+## Data Analytics Arg
 
-![GitHub Views](https://komarev.com/ghpvc/?username=data-analytics-arg&color=2685BF)
-
-## Hi there 👋🏻,
-
-We are .....
-
-## 📬 Get in touch
-
-- LinkedIn: [linkedin.com/in/maximiliano-vazquez-massaro-3173a170](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170)
-- Instagram: [instagram.com/maxi_vazquez_81](https://www.instagram.com/maxi_vazquez_81/)
-- Facebook: [facebook.com/maximiliano.vazquez.756](https://www.facebook.com/maximiliano.vazquez.756)
+![I am GitHub Readme Generator's creator](https://mvazquezmassaro.github.io/infovis/data_s.png)
 
 
+I´m Maximiliano Vazquez from Argentina and I really love Building interactive and complex data visualizations and analysis tools (e.g., dashboards) as well as Researching, designing, and testing machine-learning algorithms and programs.
+I also consider that Automating common tasks, such as data collection, can make a project efficient and repeatable, leading in turn to increased productivity and output.
 
-## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/fernandomireles/fernandomireles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomireles&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
+## ** Skills and Experience
 
-<a href="https://github.com/fernandomireles/fernandomireles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandomireles&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fernandomireles's GitHub Stats" />
-</a>
+ * <img src='https://mvazquezmassaro.github.io/infovis/postgresql.svg' alt='sql' height='19' width="20"> PostgreSQL   :white_check_mark:
+ * <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='19' width="20"> Python&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :white_check_mark:
+ * <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'>  R &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:                                 
+ * <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:                               
+ * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='20'> PowerBI  &nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark:
+ * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='powerbi' height='19'> &nbsp;Flourish &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:  
+ * <img src='https://airflow.apache.org/images/feature-image.png' alt='Airflow' height='19' width="20"> &nbsp;Airflow&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :white_check_mark:
 
+
+- 🔭 I’m currently working on My Data Science consulting project.
+
+
+    [<img src='https://mvazquezmassaro.github.io//infovis/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
