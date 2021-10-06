@@ -1,4 +1,4 @@
-![natterstefan](https://res.cloudinary.com/dxgwcpdom/image/upload/v1623223350/GitHub/fm_y6xlzk.png)
+![natterstefan](https://mvazquezmassaro.github.io/infovis/logo-Data-Analytics.png)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=data-analytics-arg&color=2685BF)
 
