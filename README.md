@@ -16,7 +16,7 @@ Data Analytics Arg was formed by founders from two countries scattered across th
 * <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='17'> Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:        
 * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='20'> PowerBI  &nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark:
 * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='flourish' height='19'> &nbsp;Flourish &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark: 
-* <img src='https://airflow.apache.org/images/feature-image.png' alt='Airflow' height='19' width="20"> &nbsp;Airflow&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :white_check_mark:
+* <img src='https://airflow.apache.org/images/feature-image.png' alt='Airflow' height='19' width="20"> &nbsp;Airflow&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark:
 
 
 
