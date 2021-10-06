@@ -5,6 +5,8 @@
 
 Data Analytics Arg was formed by founders from two countries scattered across the globe, united by a common desire to help people to solve problems. We believe that every company deserves the best in Enterprise Software Services—services that make all aspects of your business a success. In fact, we are 100% committed to you. Our promise is to ignite your vision, accelerate your time to market and time to value, and enable you to succeed now, and in the future.Our team of machine learning scientists and engineers brings a wealth of cross-industry experience building and deploying machine learning solutions to organizations' most challenging problems.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=data-analytics-arg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## ** Skills and Experience
 
