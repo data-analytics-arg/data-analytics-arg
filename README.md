@@ -13,7 +13,8 @@ Data Analytics Arg was formed by founders from two countries scattered across th
 * <img src='https://mvazquezmassaro.github.io/infovis/postgresql.svg' alt='sql' height='19' width="20"> PostgreSQL:white_check_mark:
 * <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='19' width="20"> Python    :white_check_mark:
 * <img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='17'>  R &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:  
-* <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='19' width="20"> Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:    * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='19' width="20"> PowerBI  &nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: 
+* <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='19' width="20"> Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark:    
+* <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='19' width="20"> PowerBI  &nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark: 
 * <img src='https://airflow.apache.org/images/feature-image.png' alt='Airflow' height='19' width="20"> &nbsp;Airflow&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  :white_check_mark:
 * <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='flourish' height='19' width="20"> &nbsp;Flourish &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:
 
