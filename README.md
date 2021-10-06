@@ -19,7 +19,7 @@ Data Analytics Arg was formed by founders from two countries scattered across th
 * <img src='https://airflow.apache.org/images/feature-image.png' alt='Airflow' height='19' width="20"> &nbsp;Airflow&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :white_check_mark:
 
 
-- 🔭 I’m currently working on My Data Science consulting project.
+
 
 
     [<img src='https://mvazquezmassaro.github.io//infovis/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
