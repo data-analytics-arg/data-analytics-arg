@@ -1,4 +1,4 @@
-## Data Analytics Arg
+## DATA ANALYTICS ARG
 
 ![I am GitHub Readme Generator's creator](https://mvazquezmassaro.github.io/infovis/data_s.png)
 
