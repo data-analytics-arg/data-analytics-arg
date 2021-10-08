@@ -16,7 +16,7 @@ Data Analytics Arg was formed by founders from two countries scattered across th
 * <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='19' width="20"> Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:    
 * <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='19' width="20"> PowerBI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark: 
 * <img src='https://airflow.apache.org/images/feature-image.png' alt='Airflow' height='19' width="20"> Airflow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:
-* <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='flourish' height='19' width="20"> Flourish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp; * <img src='https://mvazquezmassaro.github.io/infovis/java.svg' alt='java' height='19' width="20"> Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:   
+* <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='flourish' height='19' width="20"> Flourish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp; * <img src='https://mvazquezmassaro.github.io/infovis/java.svg' alt='java' height='19' width="20"> Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:   
 
 
 
