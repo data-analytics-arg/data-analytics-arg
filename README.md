@@ -47,6 +47,13 @@ src="https://mvazquezmassaro.github.io/infovis/postgresql.svg"></code> <code><im
 
 ## CONTACT US
 [<img src='https://mvazquezmassaro.github.io//infovis/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
-<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<p align="left">
+
+  <div align="left">
+    <img align="left" alt="GIF"  height="80px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  </div>
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=data-analytics-arg)](https://github.com/anuraghazra/github-readme-stats)
 
