@@ -8,7 +8,7 @@ Data Analytics Arg was formed by founders from two countries scattered across th
 
 
 
-## SKILLS AND EXPERIENCE
+## SOLUTIONS
 
 <p align="center">
 
