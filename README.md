@@ -9,17 +9,28 @@ Data Analytics Arg was formed by founders from two countries scattered across th
 
 
 ## SKILLS AND EXPERIENCE
+## LANGUAGES AND TOOLS:
 
-* <img src='https://mvazquezmassaro.github.io/infovis/postgresql.svg' alt='sql' height='19' width="20"> PostgreSQL&nbsp;:white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://airflow.apache.org/images/feature-image.png' alt='Airflow' height='19' width="20"> Airflow&nbsp;&nbsp;&nbsp;:white_check_mark:
-* <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/48px-Python.svg.png' alt='python' height='19' width="20"> Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://www.r-project.org/logo/Rlogo.svg' alt='linkedin' height='19' width="20">  R&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:  
-* <img src='https://mvazquezmassaro.github.io//infovis/tableau-software.svg' alt='tableau' height='20' width="20"> Tableau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp; <img src='https://mvazquezmassaro.github.io/infovis/powerbi.svg' alt='powerbi' height='19' width="20"> PowerBI&nbsp;:white_check_mark:   
+<p align="center">
+
+  <div align="center">
   
-* <img src='https://mvazquezmassaro.github.io/infovis/flourish.svg' alt='flourish' height='19' width="20"> Flourish&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:&nbsp;&nbsp;&nbsp;&nbsp;  <img src='https://mvazquezmassaro.github.io/infovis/java.svg' alt='java' height='19' width="20"> Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:white_check_mark:   
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> <code><img height="40" 
+src="https://www.r-project.org/logo/Rlogo.svg"></code> <code><img height="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://mvazquezmassaro.github.io/infovis/flourish.svg"></code> <code><img height="40" 
+src="https://mvazquezmassaro.github.io/infovis/powerbi.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40"  
+src="https://mvazquezmassaro.github.io/infovis/postgresql.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://mvazquezmassaro.github.io//infovis/tableau-software.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+  </div>
+  </p> 
+
+  
 
 
 
 
 ## CONTACT US
 [<img src='https://mvazquezmassaro.github.io//infovis/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano-vazquez-massaro-3173a170/)  
-
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=data-analytics-arg)](https://github.com/anuraghazra/github-readme-stats)
+
