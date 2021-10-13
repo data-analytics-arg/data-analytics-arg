@@ -16,9 +16,9 @@ Data Analytics Arg was formed by founders from two countries scattered across th
     
   <code><img height="70" width="82" src="https://e7.pngegg.com/pngimages/934/451/png-clipart-business-data-quality-information-extract-transform-load-computer-software-business-inteligence-blue-text-thumbnail.png"></code> <code><img height="70" width="85"
 src="https://www.trustinsights.ai/wp-content/uploads/2018/08/2018-08-07_13-56-01.png"></code> <code><img height="70" width="85"
-src="https://previews.123rf.com/images/rashadashurov/rashadashurov1909/rashadashurov190900084/130160531-machine-learning-infographic-10-steps-concept-data-mining-algorithm-classification-ai-icons.jpg"></code> <code><img height="70"  
-src="https://cio.com.mx/wp-content/uploads/2021/02/inteligencia-artificial-manos.jpg"></code> <code><img height="70" 
-src="https://miriadax-wp-uploads-pro.s3.eu-west-1.amazonaws.com/wp-content/uploads/2021/02/15080039/Data-visualization.png"></code> <code><img height="70" src="https://redfibra.mx/wp-content/uploads/que-es-cloud-computing-1.jpg"></code> 
+src="https://miro.medium.com/max/1400/1*LtjX9ze971QwTHa7GKO3pA.gif"></code> <code><img height="70"  
+src="https://c.tenor.com/PGzPBptKcVQAAAAC/artificial-intelligence-artificial.gif"></code> <code><img height="70" 
+src="https://miro.medium.com/max/1400/1*N4owGiAMBU8aftjalWcoXw.gif"></code> <code><img height="70" src="https://redfibra.mx/wp-content/uploads/que-es-cloud-computing-1.jpg"></code> 
 
   </div>
   </p> 
