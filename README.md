@@ -17,7 +17,7 @@ Data Analytics Arg was formed by founders from two countries scattered across th
   <code><img height="70" width="82" src="https://www.sparksupport.com/blog/wp-content/uploads/2019/11/ezgif.com-resize-1.gif"></code> <code><img height="70" width="85"
 src="https://www.trustinsights.ai/wp-content/uploads/2018/08/2018-08-07_13-56-01.png"></code> <code><img height="70" width="85"
 src="https://www.ocean-geoscience.com/wp-content/uploads/2020/06/ML1.gif"></code> <code><img height="70"  
-src="https://c.tenor.com/PGzPBptKcVQAAAAC/artificial-intelligence-artificial.gif"></code> <code><img height="70" 
+src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></code> <code><img height="70" 
 src="https://miro.medium.com/max/1400/1*N4owGiAMBU8aftjalWcoXw.gif"></code> <code><img height="70" 
 src="https://thumbs.gfycat.com/CrispValuableIndochinahogdeer-max-1mb.gif"></code> 
 
