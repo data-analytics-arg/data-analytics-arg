@@ -14,11 +14,12 @@ Data Analytics Arg was formed by founders from two countries scattered across th
 
   <div align="left">
     
-  <code><img height="70" width="82" src="https://e7.pngegg.com/pngimages/934/451/png-clipart-business-data-quality-information-extract-transform-load-computer-software-business-inteligence-blue-text-thumbnail.png"></code> <code><img height="70" width="85"
+  <code><img height="70" width="82" src="https://www.sparksupport.com/blog/wp-content/uploads/2019/11/ezgif.com-resize-1.gif"></code> <code><img height="70" width="85"
 src="https://www.trustinsights.ai/wp-content/uploads/2018/08/2018-08-07_13-56-01.png"></code> <code><img height="70" width="85"
-src="https://miro.medium.com/max/1400/1*LtjX9ze971QwTHa7GKO3pA.gif"></code> <code><img height="70"  
+src="https://www.ocean-geoscience.com/wp-content/uploads/2020/06/ML1.gif"></code> <code><img height="70"  
 src="https://c.tenor.com/PGzPBptKcVQAAAAC/artificial-intelligence-artificial.gif"></code> <code><img height="70" 
-src="https://miro.medium.com/max/1400/1*N4owGiAMBU8aftjalWcoXw.gif"></code> <code><img height="70" src="https://redfibra.mx/wp-content/uploads/que-es-cloud-computing-1.jpg"></code> 
+src="https://miro.medium.com/max/1400/1*N4owGiAMBU8aftjalWcoXw.gif"></code> <code><img height="70" 
+src="https://thumbs.gfycat.com/CrispValuableIndochinahogdeer-max-1mb.gif"></code> 
 
   </div>
   </p> 
